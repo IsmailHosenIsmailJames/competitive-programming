@@ -1,0 +1,35 @@
+{
+    "configurations": [{
+        "name": "Win32",
+        "includePath": [
+            "${workspaceFolder}",
+            "C:/MinGW/lib/gcc/x86_64-w64-mingw32/9.2.0/include/ssp",
+            "C:/MinGW/include/*",
+            "C:/MinGW/lib/gcc/x86_64-w64-mingw32/9.2.0/include",
+            "C:/MinGW/lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed",
+            "c:/MinGW/lib/gcc/x86_64-w64-mingw32/9.2.0/install-tools/",
+            "C:/MinGW/lib/gcc/x86_64-w64-mingw32/9.2.0/install-tools/include",
+            "C:/MinGW/x86_64-w64-mingw32/include/*"
+        ],
+        "defines": ["_DEBUG", "UNICODE", "_UNICODE"],
+        "intelliSenseMode": "clang-x64",
+        "browse": {
+            "path": [
+                "${workspaceFolder}",
+                "C:/MinGW/lib/gcc/x86_64-w64-mingw32/9.2.0/include/ssp",
+                "C:/MinGW/include/*",
+                "C:/MinGW/lib/gcc/x86_64-w64-mingw32/9.2.0/include",
+                "C:/MinGW/lib/gcc/x86_64-w64-mingw32/9.2.0/include-fixed",
+                "c:/MinGW/lib/gcc/x86_64-w64-mingw32/9.2.0/install-tools/",
+                "C:/MinGW/lib/gcc/x86_64-w64-mingw32/9.2.0/install-tools/include",
+                "C:/MinGW/x86_64-w64-mingw32/include/*"
+            ],
+            "limitSymbolsToIncludedHeaders": true,
+            "databaseFilename": ""
+        },
+        "compilerPath": "C:/MinGW/bin/gcc.exe",
+        "cStandard": "c11",
+        "cppStandard": "c++17"
+    }],
+    "version": 4
+}
